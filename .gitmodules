@@ -7,6 +7,6 @@
 [submodule "RETAMENTE"]
 	path = RETAMENTE
 	url = https://github.com/Anrago/RETAMENTE
-[submodule "Sumpy-Ludic-Game-Raylib"]
-	path = Sumpy-Ludic-Game-Raylib
-	url = https://github.com/keiwv/Sumpy-Ludic-Game-Raylib
+[submodule "sumpy-ludic-game-raylib"]
+	path = sumpy-ludic-game-raylib
+	url = https://github.com/keiwv/sumpy-ludic-game-raylib
