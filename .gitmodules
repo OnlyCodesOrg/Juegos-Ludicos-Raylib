@@ -1,0 +1,12 @@
+[submodule "16-Bits-de-Historia"]
+	path = 16-Bits-de-Historia
+	url = https://github.com/Scalaptia/16-Bits-de-Historia
+[submodule "Snake-Game"]
+	path = Snake-Game
+	url = https://github.com/JVPresti/Juego
+[submodule "RETAMENTE"]
+	path = RETAMENTE
+	url = https://github.com/Anrago/RETAMENTE
+[submodule "sumpy-ludic-game-raylib"]
+	path = sumpy-ludic-game-raylib
+	url = https://github.com/keiwv/sumpy-ludic-game-raylib
